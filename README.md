@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @stats95
+- 👀 I’m interested in full stack development 
+- 🌱 I’m currently doign the Odin Project 
+- 💞️ I’m looking to collaborate on anything!
